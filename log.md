@@ -36,3 +36,25 @@
 - GitHubRepoSearch | T02.01-Exercice-CreateLayout
 - Sunshine | S01.01-Exercise-CreateLayout
 - Sunshine | S01.02-Exercise-AddWeatherList
+
+
+# Day 3
+- Connect to the Internet (5 -> 14)
+-----
+# Concepts:
+- Resources
+- res directory
+- Using resources in XML and Java
+- Working with strings.xml
+- Toasts
+- Android Menu
+- Build an URL
+- URI.builder
+- Fetching an HTTP request
+- Permissions
+- Threads basics
+-----
+## Exercices:
+- GitHubRepoSearch | T02.02-Exercice-AddMenu
+- GitHubRepoSearch | T02.03-Exercice-DisplayUrl
+- GitHubRepoSearch | T02.04-Exercice-ConnectingToTheInternet
