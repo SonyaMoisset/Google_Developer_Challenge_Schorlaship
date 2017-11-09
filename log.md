@@ -39,7 +39,7 @@
 
 
 # Day 3
-- Connect to the Internet (5 -> 14)
+- Connect to the Internet (5 -> 13)
 -----
 # Concepts:
 - Resources
