@@ -58,3 +58,22 @@
 - GitHubRepoSearch | T02.02-Exercice-AddMenu
 - GitHubRepoSearch | T02.03-Exercice-DisplayUrl
 - GitHubRepoSearch | T02.04-Exercice-ConnectingToTheInternet
+
+
+# Day 4
+- Connect to the Internet (14 -> 26)
+-----
+# Concepts: 
+- Create AsyncTask
+- doInBackground
+- onProgressUpdate
+- onPostExecute
+- onPreExecute
+- JSON format
+-----
+## Exercices:
+- GitHubRepoSearch | T02.05-Exercice-CreateAsyncTask
+- GitHubRepoSearch | T02.06-Exercice-AddPolish
+- Sunshine | S02.01-Exercise-Networking
+- Sunshine | S02.02-Exercise-Menus
+- Sunshine | S02.03-Exercise-Polish
