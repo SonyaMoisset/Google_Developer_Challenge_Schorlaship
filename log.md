@@ -77,3 +77,21 @@
 - Sunshine | S02.01-Exercise-Networking
 - Sunshine | S02.02-Exercise-Menus
 - Sunshine | S02.03-Exercise-Polish
+
+
+# Day 5
+- RecyclerView (1 -> 7)
+-----
+# Concepts
+- AsyncTask
+- AsyncTask's generic types
+- 4 steps of AsyncTask
+- Cancelling a Task
+- Threading rules
+- Resources Overview
+- Layouts
+- Write the XML for Layouts
+- Load the XML resource
+- UI Overview
+- User interface Layout
+- Using RecyclerView
