@@ -95,3 +95,23 @@
 - UI Overview
 - User interface Layout
 - Using RecyclerView
+
+
+# Day 6 
+- RecyclerView (8 -> 24)
+-----
+# Concepts
+- SP
+- DP
+- RecyclerView and Adapters
+-----
+## Exercices
+- GitHubRepoSearch | T03.01-Exercice-RecyclerViewLayout
+- GitHubRepoSearch | T03.02-Exercice-ViewHolder
+- GitHubRepoSearch | T03.03-Exercice-RecyclerViewAdapter
+- GitHubRepoSearch | T03.04-Exercice-WiringUpRecyclerView
+- GitHubRepoSearch | T03.05-Exercice-GoingGreen
+- GitHubRepoSearch | T03.06-Exercice-RefreshMenuButton
+- GitHubRepoSearch | T03.07-Exercice-RecyclerViewClickHandling
+- Sunshine | S03.01-Exercise-RecyclerView
+- Sunshine | S03.02-Exercise-RecyclerViewClickHandling
