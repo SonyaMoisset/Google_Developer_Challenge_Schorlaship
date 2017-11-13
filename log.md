@@ -115,3 +115,19 @@
 - GitHubRepoSearch | T03.07-Exercice-RecyclerViewClickHandling
 - Sunshine | S03.01-Exercise-RecyclerView
 - Sunshine | S03.02-Exercise-RecyclerViewClickHandling
+
+
+# Day 7
+- Intents (1 -> 10)
+-----
+# Participation
+- Slack
+- Forum
+-----
+# Concepts
+- Intents
+-----
+# Exercices
+- Starting New Activities | T04a.01-Exercise-AddNewActivity
+- Starting New Activities | T04a.01-Exercise-StartNewActivity
+- Starting New Activities | T04a.01-Exercise-PassingDataBetweenActivities
