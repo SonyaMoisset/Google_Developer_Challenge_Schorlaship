@@ -131,3 +131,22 @@
 - Starting New Activities | T04a.01-Exercise-AddNewActivity
 - Starting New Activities | T04a.01-Exercise-StartNewActivity
 - Starting New Activities | T04a.01-Exercise-PassingDataBetweenActivities
+
+
+# Day 8
+- Intents (11 -> 26)
+-----
+# Participation
+- Slack
+- Forum
+-----
+# Concepts
+- Understanding URLs
+-----
+# Exercices
+- WebpagesMapsAndSharing | T04b.01-Exercise-OpenWebpage
+- WebpagesMapsAndSharing | T04b.02-Exercise-OpenMap
+- WebpagesMapsAndSharing | T04b.03-Exercise-ShareText
+- Sunshine | S04.01-Exercise-LaunchNewActivity
+- Sunshine | S04.02-Exercise-DisplayDayForecast
+- Sunshine | S04.03-Exercise-AddMapAndSharing
