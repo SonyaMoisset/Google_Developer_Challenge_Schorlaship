@@ -150,3 +150,17 @@
 - Sunshine | S04.01-Exercise-LaunchNewActivity
 - Sunshine | S04.02-Exercise-DisplayDayForecast
 - Sunshine | S04.03-Exercise-AddMapAndSharing
+
+
+# Day 9
+- LearnHowToProgram - MyRestaurants App
+-----
+# Participation
+- Slack
+- Forum
+-----
+# Concepts
+- Views
+- Intents
+- Click listeners
+- Toasts
