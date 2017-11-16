@@ -164,3 +164,11 @@
 - Intents
 - Click listeners
 - Toasts
+
+
+# 10
+- Head Java First
+-----
+# Participation
+- Slack
+- Forum
