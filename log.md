@@ -166,9 +166,29 @@
 - Toasts
 
 
-# 10
+# Day 10
 - Head Java First
 -----
 # Participation
 - Slack
 - Forum
+
+
+# Day 11
+- Lifecycle (1 -> 21)
+-----
+# Participation
+- Slack
+- Forum
+-----
+# Concepts
+- Lifecycle
+-----
+# Exercices
+- AndroidLifecycle | T05a.01-Exercise-LogLifecycle
+- AndroidLifecycle | T05a.02-Exercise-PersistData
+- AndroidLifecycle | T05a.03-Exercise-FixLifecycleDisplayBug
+- AndroidLifecycle | T05b.01-Exercise-SaveResults
+- AndroidLifecycle | T05b.02-Exercise-AddAsyncTaskLoader
+- AndroidLifecycle | T05b.03-Exercise-PolishAsyncTask
+- Sunshine | S05.01-Exercise-AsyncTaskLoader
