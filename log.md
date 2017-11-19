@@ -176,6 +176,7 @@
 
 # Day 11
 - Lifecycle (1 -> 21)
+- LearnHowToProgram - MyRestaurants App
 -----
 # Participation
 - Slack
