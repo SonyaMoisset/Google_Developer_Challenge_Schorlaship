@@ -193,3 +193,8 @@
 - AndroidLifecycle | T05b.02-Exercise-AddAsyncTaskLoader
 - AndroidLifecycle | T05b.03-Exercise-PolishAsyncTask
 - Sunshine | S05.01-Exercise-AsyncTaskLoader
+
+# Day 12
+# Participation
+- Slack
+- Forum
