@@ -198,3 +198,11 @@
 # Participation
 - Slack
 - Forum
+
+# Day 13
+# Participation
+- Slack
+- Forum
+-----
+# Event
+- Londroid November @ Trainline
