@@ -206,3 +206,23 @@
 -----
 # Event
 - Londroid November @ Trainline
+
+# Day 14
+- Preferences (1 -> 21)
+-----
+# Participation
+- Slack
+- Forum
+-----
+# Concepts
+- Presistant Storage Options
+- PreferenceFragment
+- Use resources
+-----
+# Exercices
+- VisualizerPreferences | T06.01-Exercise-SetupTheActivity
+- VisualizerPreferences | T06.02-Exercise-MakeAPreferenceFragment
+- VisualizerPreferences | T06.03-Exercise-ReadingFromSharedPreferences
+- VisualizerPreferences | T06.04-Exercise-UseResources
+- VisualizerPreferences | T06.05-Exercise-PreferenceChangeListener
+- VisualizerPreferences | T06.06-Exercise-AddTwoMoreCheckboxes
