@@ -226,3 +226,10 @@
 - VisualizerPreferences | T06.04-Exercise-UseResources
 - VisualizerPreferences | T06.05-Exercise-PreferenceChangeListener
 - VisualizerPreferences | T06.06-Exercise-AddTwoMoreCheckboxes
+
+# Day 15
+- Treehouse | Build a Simple Android App with Java
+-----
+# Participation
+- Slack
+- Forum
