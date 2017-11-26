@@ -241,6 +241,7 @@
 
 # Day 16
 - Preferences (22 -> 36)
+- Storing Data in SQLite (1 -> 10)
 -----
 # Participation
 - Slack
