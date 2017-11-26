@@ -194,10 +194,12 @@
 - AndroidLifecycle | T05b.03-Exercise-PolishAsyncTask
 - Sunshine | S05.01-Exercise-AsyncTaskLoader
 
+
 # Day 12
 # Participation
 - Slack
 - Forum
+
 
 # Day 13
 # Participation
@@ -206,6 +208,7 @@
 -----
 # Event
 - Londroid November @ Trainline
+
 
 # Day 14
 - Preferences (1 -> 21)
@@ -227,9 +230,27 @@
 - VisualizerPreferences | T06.05-Exercise-PreferenceChangeListener
 - VisualizerPreferences | T06.06-Exercise-AddTwoMoreCheckboxes
 
+
 # Day 15
 - Treehouse | Build a Simple Android App with Java
 -----
 # Participation
 - Slack
 - Forum
+
+
+# Day 16
+- Preferences (22 -> 36)
+-----
+# Participation
+- Slack
+- Forum
+-----
+# Exercices
+- VisualizerPreferences | T06.07-Exercise-ListPreference
+- VisualizerPreferences | T06.08-Exercise-PreferenceSummary
+- VisualizerPreferences | T06.09-Exercise-EditTextPreference
+- VisualizerPreferences | T06.10-Exercise-EditTextPreferenceConstraints
+- Sunshine | S06.01-Exercise-LaunchSettingsActivity
+- Sunshine | S06.02-Exercise-SettingsFragment
+- Sunshine | S06.03-Exercise-PolishingPreferences
