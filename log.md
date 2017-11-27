@@ -255,3 +255,21 @@
 - Sunshine | S06.01-Exercise-LaunchSettingsActivity
 - Sunshine | S06.02-Exercise-SettingsFragment
 - Sunshine | S06.03-Exercise-PolishingPreferences
+- Waitlist | T07.01-Exercise-CreateAContract
+- Waitlist | T07.02-Exercise-CreateTheDatabase
+
+# Day 17
+- Storing Data in SQLite (11 -> 20)
+- Content Providers (1 -> 4)
+-----
+# Participation
+- Slack
+- Forum
+-----
+# Exercices
+- Waitlist | T07.03-Exercise-GetAllTheData
+- Waitlist | T07.04-Exercise-UpdateTheAdapter
+- Waitlist | T07.05-Exercise-AddGuests
+- Sunshine | S07.01-Exercise-DatabaseCreation
+- Sunshine | S07.02-Exercise-PreventInvalidInserts
+- Sunshine | S07.03-Exercise-ConflictResolutionPolicy
