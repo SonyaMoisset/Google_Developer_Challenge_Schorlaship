@@ -279,3 +279,20 @@
 # Participation
 - Slack
 - Forum
+
+
+# Day 19
+- Content Providers (5 -> 23)
+- Building a Content Provider (1 -> 20)
+-----
+# Participation
+- Slack
+- Forum
+-----
+# Exercices
+- QuizExample | T08.01-Exercise-AddTheContentProviderPermission
+- QuizExample | T08.02-Exercise-AddAsyncTaskToRetrieveCursor
+- QuizExample | T08.03-Exercise-FinishQuizExample
+- ToDoList | T09.01-Exercise-SetupContentProvider
+- ToDoList | T09.02-Exercise-AddURIsToContract
+- ToDoList | T09.03-Exercise-UriMatcher
