@@ -273,3 +273,9 @@
 - Sunshine | S07.01-Exercise-DatabaseCreation
 - Sunshine | S07.02-Exercise-PreventInvalidInserts
 - Sunshine | S07.03-Exercise-ConflictResolutionPolicy
+
+
+# Day 18
+# Participation
+- Slack
+- Forum
