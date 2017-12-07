@@ -296,3 +296,17 @@
 - ToDoList | T09.01-Exercise-SetupContentProvider
 - ToDoList | T09.02-Exercise-AddURIsToContract
 - ToDoList | T09.03-Exercise-UriMatcher
+
+
+# Day 20
+- Building a Content Provider (21 -> 36)
+-----
+# Participation
+- Slack
+- Forum
+-----
+# Exercices
+- ToDoList | Add T09.04-Exercise-Insert
+- ToDoList | Add T09.05-Exercise-QueryAllTasks
+- ToDoList | Add T09.06-Exercise-Delete
+- ToDoList | Add T09.07-Exercise-SwipeToDelete
