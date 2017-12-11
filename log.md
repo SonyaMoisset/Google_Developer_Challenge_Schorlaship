@@ -322,3 +322,23 @@
 # Exercices
 - ContentProvider | S09.01-Exercise-ContentProviderFoundation
 - ContentProvider | S09.02-Exercise-ContentProviderBulkInsert
+
+
+# Day 22
+- Building a Content Provider (39 ->45)
+- Background Tasks (1 -> 28)
+-----
+# Participation
+- Slack
+- Forum
+-----
+# Exercices
+- ContentProvider | S09.03-Exercise-ContentProviderDelete
+- ContentProvider | S09.04-Exercise-UsingCursorLoader
+- ContentProvider | S09.05-Exercise-MoreDetails
+- HydrationReminder | T10.01-Exercise-IntentServices
+- HydrationReminder | T10.02-Exercise-CreateNotification
+- HydrationReminder | T10.03-Exercise-NotificationActions
+- HydrationReminder | T10.04-Exercise-PeriodicSyncWithJobDispatcher
+- HydrationReminder | T10.05-Exercise-ChargingBroadcastReceiver
+- HydrationReminder | T10.06-Exercise-StickyBroadcastForCharging
