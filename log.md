@@ -299,7 +299,7 @@
 
 
 # Day 20
-- Building a Content Provider (21 -> 36)
+- Building a Content Provider (21 -> 34)
 -----
 # Participation
 - Slack
@@ -310,3 +310,15 @@
 - ToDoList | Add T09.05-Exercise-QueryAllTasks
 - ToDoList | Add T09.06-Exercise-Delete
 - ToDoList | Add T09.07-Exercise-SwipeToDelete
+
+
+# Day 21
+- Building a Content Provider (35 ->38)
+-----
+# Participation
+- Slack
+- Forum
+-----
+# Exercices
+- ContentProvider | S09.01-Exercise-ContentProviderFoundation
+- ContentProvider | S09.02-Exercise-ContentProviderBulkInsert
