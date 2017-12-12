@@ -342,3 +342,33 @@
 - HydrationReminder | T10.04-Exercise-PeriodicSyncWithJobDispatcher
 - HydrationReminder | T10.05-Exercise-ChargingBroadcastReceiver
 - HydrationReminder | T10.06-Exercise-StickyBroadcastForCharging
+
+
+# Day 23
+- Background Tasks (29 ->34)
+- Completing the UI (1 -> 25)
+- Polishing the UI (1 -> 34)
+-----
+# Participation
+- Slack
+- Forum
+-----
+# Exercices
+- Sunshine | S10.01-Exercise-SynchronizingTheWeather
+- Sunshine | S10.02-Solution-SmarterSyncing
+- Sunshine | S10.03-Exercise-FirebaseJobDispatcher
+- Sunshine | S10.04-Exercise-Notifications
+- CompletingTheUI | T11.01-Exercise-ConstraintLayout
+- CompletingTheUI | T11.02-Exercise-DataBinding
+- CompletingTheUI | T11.03-Exercise-LandscapeLayout
+- Sunshine | S11.01-Exercise-NewListItemLayout
+- Sunshine | S11.02-Exercise-TodayListItem
+- Sunshine | S11.03-Exercise-DetailLayoutAndDataBinding
+- VisualPolish | T12.01-Exercise-ColorsAndFonts
+- VisualPolish | T12.02-Exercise-CreateNewStyles
+- VisualPolish | T12.03-Exercise-TabletLayout
+- VisualPolish | T12.04-Exercise-TouchSelector
+- Sunshine | S12.01-Exercise-DimensionsColorsAndFonts
+- Sunshine | S12.02-Exercise-Styles
+- Sunshine | S12.03-Exercise-TouchSelectors
+- Sunshine | S12.04-Exercise-ResourceQualifiers
